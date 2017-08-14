@@ -1,5 +1,5 @@
 package com.itheima.test.web;
-
+//测试注释
 public class Example{
 	   String str = "good";
 	   char[] ch = { 'a', 'b', 'c' };
